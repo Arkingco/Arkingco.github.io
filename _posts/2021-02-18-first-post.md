@@ -1,5 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "백준 테스트 문제"
+date: 2021-02-18 05:24:00
+categories: 백준 문제풀이
 ---
+
+테스트 파일 입니당
